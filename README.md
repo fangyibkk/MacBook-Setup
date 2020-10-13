@@ -12,7 +12,10 @@ Ctrl + Space :: spotlight search
 
 # Remap cap lock to control and Esc
 Install Karabiner
-
+And put the config file into the complex mod folder
+```
+~/.config/karabiner/assets/complex_modifications/my-caplock.json
+```
 
 # List of application install
 1. Google Chrome
