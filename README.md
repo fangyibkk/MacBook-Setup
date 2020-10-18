@@ -20,3 +20,6 @@ And put the config file into the complex mod folder
 # List of application install
 1. Google Chrome
 2. VS Code
+
+## Install Home Brew
+https://brew.sh/
