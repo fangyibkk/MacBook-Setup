@@ -23,3 +23,4 @@ And put the config file into the complex mod folder
 
 ## Install Home Brew
 https://brew.sh/
+https://ohmyz.sh/
