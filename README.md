@@ -1,6 +1,11 @@
 # MacBook-Setup
 My MacBook Air setup for productivity
 
+# Three finger is better than force
+Setting > Accessibility
+Mouse & Trackpad
+Enable dragging
+choose drop down three finger
 
 # Remap lanuage input
 I primary type Thai and English
