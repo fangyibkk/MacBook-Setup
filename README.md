@@ -1,6 +1,9 @@
 # MacBook-Setup
 My MacBook Air setup for productivity
 
+# Bring back Terminal meta
+Terminal > preference > Profiles > keyboard > check "Use Option as Meta key"
+
 # Three finger is better than force
 Setting > Accessibility
 Mouse & Trackpad
